@@ -28,8 +28,8 @@
 // namespace for print() is std or bw
 // make this std if you dare
 
-// #define BWP_NAMESPACE bw
-#define BWP_NAMESPACE std
+#define BWP_NAMESPACE bw
+// #define BWP_NAMESPACE std
 
 #ifdef __cpp_lib_format
 #   include <format>

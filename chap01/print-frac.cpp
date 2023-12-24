@@ -15,7 +15,8 @@
 
 using std::string_view;
 using std::string;
-using std::print;
+using bw::print;
+// using std::print;
 
 struct Frac {
     long n;
